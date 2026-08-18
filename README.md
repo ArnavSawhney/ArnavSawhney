@@ -15,10 +15,10 @@ Applied ML in healthcare, computer vision, NLP for domain-specific tasks, contex
 #### Selected work
 
 - **[clinicpylot](https://github.com/ArnavSawhney/clinicpylot)** — public writeup of the platform above. Architecture, the bandit design, off-policy eval setup. Code is private (product).
-- **[Fin-RoBERTa](https://github.com/ArnavSawhney/Financial-Sentiment-Analysis)** — keyword masking + domain-adaptive pretraining for financial sentiment. Raised accuracy from 79% to 88% (83.3 F1), beats FinBERT (86%). Team project with @Arshveer05.
+- **[Fin-RoBERTa](https://github.com/ArnavSawhney/Financial-Sentiment-Analysis)** — keyword masking + domain-adaptive pretraining for financial sentiment. Raised accuracy from 79% to 88% (83.3 F1), beats FinBERT (86%). Team project.
 - **[PCOS_EarlyDetection](https://github.com/ArnavSawhney/PCOS_EarlyDetection)** — Mask R-CNN for pre-symptomatic ovarian follicle detection (2 to 9 mm range) from ultrasound. 98 to 100% classification accuracy on 772 held-out images.
 - **[FiberDetectionAnalysis](https://github.com/ArnavSawhney/FiberDetectionAnalysis)** — SAM3 + OpenCV pipeline extracting replication features (fork speeds, tract lengths, inter-origin distances) from DNA fibre microscopy.
-- **[MARL-Environment](https://github.com/ArnavSawhney/MARL-Environment)** — MAPPO multi-agent RL for bandwidth-constrained resource allocation under CTDE. Team project with @Tanu-adhikari.
+- **[MARL-Environment](https://github.com/ArnavSawhney/MARL-Environment)** — MAPPO multi-agent RL for bandwidth-constrained resource allocation under CTDE. Team project.
 
 #### Stack
 
