@@ -26,4 +26,4 @@ Python, PyTorch, OpenCV, FastAPI, Next.js, PostgreSQL / Supabase, Redis, Docker.
 
 #### Reach me
 
-sawhneyarnav87@gmail.com · [LinkedIn](https://www.linkedin.com/in/arnav-sawhney-2bb391253/)
+arnavsawhney@clinicpylot.xyz · [LinkedIn](https://www.linkedin.com/in/arnav-sawhney-2bb391253/)
